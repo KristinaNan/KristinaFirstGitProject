@@ -17,4 +17,9 @@ public class App
         System.out.println( "Hello World!" );
         /*sdasdas*/
     }
+	
+	public static void func1()
+    {
+        System.out.println( "Func1" );
+    }
 }
