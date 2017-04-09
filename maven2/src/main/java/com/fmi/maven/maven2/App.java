@@ -6,6 +6,11 @@ package com.fmi.maven.maven2;
  */
 public class App 
 {
+	    public static void func2()
+    {
+        System.out.println( "func2" );
+    }
+	
     public static void main( String[] args )
     {
 		/*sdasdasdsdasdas*/
